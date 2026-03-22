@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Bhargav Potdar 👋
 
-<!--
-**BhargavPotdar/BhargavPotdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Engineer at Reliance Jio → transitioning to DevOps / SRE
 
-Here are some ideas to get you started:
+🔧 Currently: 2.5 years working on Linux systems, automation, 
+   and operational support in large-scale telecom environments at Jio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Upskilling in: Cloud-native DevOps — 
+   Docker · Kubernetes · AWS · CI/CD · Terraform
+
+💡 Background: Linux administration, shell scripting, Python 
+   automation, system monitoring, networking — all now being 
+   applied to cloud-native DevOps
+
+📍 Mumbai, India
+
+📫 Connect: linkedin.com/in/bhargav-potdar-2916511b3
+
+---
+
+## What I'm building
+- [ ] Docker projects
+- [ ] Kubernetes deployments  
+- [ ] AWS infrastructure
+- [ ] CI/CD pipelines
+- [ ] Learning notes repo (coming soon)
+
+## Current stack
+Linux · Shell scripting · Python · Git · (learning) Docker · K8s · AWS · Terraform
